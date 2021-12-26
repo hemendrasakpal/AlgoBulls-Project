@@ -16,4 +16,4 @@ Following Python libraries:
 5.alphavantage
 
 Contact:
-Hemendra Sakpal-hemendra.sakpal@gmail.com
+Hemendra Sakpal - hemendra.sakpal@gmail.com
