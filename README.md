@@ -27,5 +27,13 @@ Following Python libraries:
 
 5.alphavantage
 
+Usage:
+
+1.Download the AlgoBulls_Project.ipynb file from this repository.
+
+2.Load the file in Jupyter Notbook
+
+3.Click on Kernel->Restart & Run All
+
 Contact:
 Hemendra Sakpal - hemendra.sakpal@gmail.com
