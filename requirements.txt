@@ -1,0 +1,6 @@
+Required libraries to run the script
+1.numpy
+2.pandas
+3.matplotlib
+4.seaborn
+5.alphavantage
