@@ -5,6 +5,7 @@ Description:
 3.New DataFrame signals is created that consist of signal column, that gives values for each row based on whether the indicators cut the close column upward or downward.
 
 Prerequisites:
+
 Pyhon 3.8
 Anaconda
 Jupyter Notbook
